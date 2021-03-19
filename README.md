@@ -1,5 +1,5 @@
-👋 Hi, 我是一名Java后端开发工程师, 懂一点前端知识。  
-推荐安装chrome的[octotree插件](https://www.runoob.com/w3cnote/octotree-github-repo.html), 然后可以更好查看Github的项目代码哦。
+👋 我是白榆, Java后端开发工程师, 懂一点前端知识。  
+
 
 <!--
 **xiaofeng333/xiaofeng333** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
